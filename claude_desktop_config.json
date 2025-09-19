@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "node",
+      "args": ["/path/to/mcp-demo/weather-server/build/index.js"],
+      "env": {
+        "OPENWEATHER_API_KEY": "your_openweather_api_key_here"
+      }
+    },
+    "airbnb": {
+      "command": "node", 
+      "args": ["/path/to/mcp-demo/airbnb-server/build/index.js"],
+      "env": {
+        "OPENCAGE_API_KEY": "your_opencage_api_key_here"
+      }
+    }
+  }
+}
