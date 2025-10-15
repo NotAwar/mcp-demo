@@ -1,3 +1,7 @@
+# Warning
+
+This is a highly unstable repository made for demo purposes, do not use without understanding the contents of the repository.
+
 # MCP Demo - Weather & Airbnb Servers
 
 A collection of Model Context Protocol (MCP) servers that provide access to weather data and Airbnb location information through REST API integrations. This repository demonstrates how to build functional MCP servers with comprehensive filtering, error handling, and documentation.
