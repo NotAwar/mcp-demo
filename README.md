@@ -2,6 +2,11 @@
 
 This is a highly unstable repository made for demo purposes, do not use without understanding the contents of the repository.
 
+## Demo prompt used on Claude 4.5 to consume this repo
+
+I have built two mcp servers in this public repo I want you to create a local static website which uses these and shows of the best time and local accomodation which are available with the local weather etc. Just show me the local website, start the page and don't take it down yet. The website should be in moderns colors (darkmode graphite with neon pink as accent)
+https://github.com/notawar/mcp-demo
+
 # MCP Demo - Weather & Airbnb Servers
 
 A collection of Model Context Protocol (MCP) servers that provide access to weather data and Airbnb location information through REST API integrations. This repository demonstrates how to build functional MCP servers with comprehensive filtering, error handling, and documentation.
